@@ -59,7 +59,7 @@ Visual feedback using a BMI indicator bar
 The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.
 
 <h3>How It Works </h3>
-<img src="assets/image/input.png" alt="BMI input fields" width=500;>
+<p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=200; height=200;>
 
 <ul>
 <li>Input Height & Weight 📏⚖️</li>
