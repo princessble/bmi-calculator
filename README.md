@@ -7,39 +7,40 @@ Here is a visual representation of the workflow chart:
 <p align="center"><img src="assets/image/workflow.png" alt="BMI Calculator workflow chart" width="200" height="200"></p>
 <h3>Table of Contents</h3>
 
-Description
+<ul>
+<li>Description</li>
 
-About This Project
+<li>About This Project</li>
 
-How It Works
+<li>How It Works</li>
 
-Input Height & Weight
+<li>Input Height & Weight</li>
 
-BMI Calculation
+<li>BMI Calculation</li>
 
-Result & Indicator Bar
+<li>Result & Indicator Bar</li>
 
-Live Demo
+<li>Live Demo</li>
 
-Features
+<li>Features</li>
 
-Getting Started
+<li>Getting Started</li>
 
-Manual Testing
+<li>Manual Testing</li>
 
-Acknowledgements
+<li>Acknowledgements</li>
 
-Footer
+<li>Footer</li>
 
-Description
+<h3>Description</h3>
 
-Calculate your Body Mass Index easily and visually. 🎯
+<p>Calculate your Body Mass Index easily and visually. 🎯</p>
 
-The BMI Calculator is a simple, responsive web application that allows users to enter their height and weight to instantly calculate their Body Mass Index (BMI). The app displays the BMI value, health category, and a visual color indicator bar to help users understand where they fall within standard BMI ranges.
+<p>The BMI Calculator is a simple, responsive web application that allows users to enter their height and weight to instantly calculate their Body Mass Index (BMI). The app displays the BMI value, health category, and a visual color indicator bar to help users understand where they fall within standard BMI ranges.</p>
 
-This project was built as part of my Full Stack Web Development portfolio to demonstrate clean HTML structure, modern CSS styling, JavaScript logic, form validation, and basic accessibility practices.
+<p>This project was built as part of my Full Stack Web Development portfolio to demonstrate clean HTML structure, modern CSS styling, JavaScript logic, form validation, and basic accessibility practices.</p>
 
-About This Project
+<h3>About This Project</h3>
 
 This project focuses on:
 
