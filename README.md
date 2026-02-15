@@ -1,5 +1,5 @@
 BMI Calculator 🧮📏
-<p align="center"> <img src="assets/image/bmi-logo.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
+<p align="center"> <img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
 Workflow 🚀
 
 Here's a visual representation of the workflow chart:
