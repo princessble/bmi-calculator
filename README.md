@@ -59,7 +59,7 @@ Visual feedback using a BMI indicator bar
 The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.
 
 <h3>How It Works </h3>
-<p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=200; height=200;>
+<p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=400; height=400;>
 
 <ul>
 <li>Input Height & Weight 📏⚖️</li>
@@ -72,16 +72,16 @@ The goal is to build practical, real-world mini applications that demonstrate st
 <li>The app validates input to ensure realistic values before calculation.</li>
 </ul>
 
-<img src="assets/image/calc.png" alt="BMI calculation logic" width=300;>
+<p align="center"><img src="assets/image/calc.png" alt="BMI calculation logic" width=300; height=300;>
 
-BMI Calculation 🧠
+<h3>BMI Calculation 🧠</h3>
+<ul>
+<li>The BMI formula used:</li>
 
-The BMI formula used:
+<li>BMI = weight (kg) / (height (m) × height (m))</li>
+</ul>
 
-BMI = weight (kg) / (height (m) × height (m))
-
-
-JavaScript handles:
+J<h3>avaScript handles:</h3>
 
 Unit conversion (cm → m)
 
@@ -90,7 +90,7 @@ Calculation
 Rounding to 1 decimal place
 
 Result & Indicator Bar 🎨
-<img src="assets/image/result.png" alt="BMI result and indicator bar">
+<p align="center"><img src="assets/image/result.png" alt="BMI result and indicator bar" width=300; height=300;>
 
 <ul>
 
