@@ -57,20 +57,28 @@ Visual feedback using a BMI indicator bar
 
 The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.
 
-How It Works
-Input Height & Weight 📏⚖️
+
 <img src="assets/image/input.png" alt="BMI input fields" width=300;>
 
+<ul>
+
+How It Works
+<li>Input Height & Weight 📏⚖️</li>
+</ul>
+
+<ul>
 Users enter:
 
-Height in centimeters (cm)
+<li>eight in centimeters (cm)</li>
 
-Weight in kilograms (kg)
+<li>Weight in kilograms (kg)</li>
 
-The app validates input to ensure realistic values before calculation.
+<li>The app validates input to ensure realistic values before calculation.</li>
+</ul>
+
+<img src="assets/image/calc.png" alt="BMI calculation logic" width=300;>
 
 BMI Calculation 🧠
-<img src="assets/image/calc.png" alt="BMI calculation logic" width=300;>
 
 The BMI formula used:
 
