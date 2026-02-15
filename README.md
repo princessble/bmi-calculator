@@ -2,7 +2,7 @@ BMI Calculator 🧮📏
 <p align="center"> <img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
 Workflow 🚀
 
-Here's a visual representation of the workflow chart:
+Here is a visual representation of the workflow chart:
 
 <img src="assets/image/workflow.png" alt="BMI Calculator workflow chart">
 Table of Contents
