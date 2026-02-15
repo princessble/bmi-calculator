@@ -88,13 +88,15 @@ Rounding to 1 decimal place
 Result & Indicator Bar 🎨
 <img src="assets/image/result.png" alt="BMI result and indicator bar">
 
+<ul>
+
 The app displays:
 
-BMI value
+<li>BMI value</li>
 
-BMI category (Underweight, Normal, Overweight, Obese)
+<li>BMI category (Underweight, Normal, Overweight, Obese)</li>
 
-A color indicator bar that visually represents where the BMI falls on the scale
+<li>A color indicator bar that visually represents where the BMI falls on the scale</li>
 
 Live Demo
 
