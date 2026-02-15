@@ -1,11 +1,11 @@
-BMI Calculator 🧮📏
-<p align="center"> <img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
-Workflow 🚀
+<h2>BMI Calculator 🧮📏</h2>
+<p align="center"><img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
+<h3>Workflow 🚀</h3>
 
 Here is a visual representation of the workflow chart:
 
-<img src="assets/image/workflow.png" alt="BMI Calculator workflow chart">
-Table of Contents
+<p align="center"><img src="assets/image/workflow.png" alt="BMI Calculator workflow chart" width="200" height="200"></p>
+<h3>Table of Contents</h3>
 
 Description
 
@@ -64,7 +64,7 @@ The goal is to build practical, real-world mini applications that demonstrate st
 <li>Input Height & Weight 📏⚖️</li>
 <h4> Users enter:</h4>
 
-<li>eight in centimeters (cm)</li>
+<li>Height in centimeters (cm)</li>
 
 <li>Weight in kilograms (kg)</li>
 
