@@ -1,0 +1,183 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f6f7fb;
+  color: #111;
+}
+
+.container {
+  max-width: 560px;
+  margin: 48px auto;
+  padding: 18px;
+}
+
+.header h1 {
+  margin: 0 0 6px;
+}
+
+.subtitle {
+  margin: 0;
+  color: #555;
+}
+
+.card {
+  background: #fff;
+  padding: 18px;
+  margin-top: 18px;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.field {
+  margin-bottom: 14px;
+}
+
+label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #cfcfcf;
+  font-size: 16px;
+  outline: none;
+}
+
+input:focus {
+  border-color: #2f6fed;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  margin-top: 10px;
+  background: #2f6fed;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn.secondary {
+  background: #e7e7e7;
+  color: #222;
+}
+
+.btn:hover {
+  opacity: 0.95;
+}
+
+.error {
+  margin-top: 14px;
+  padding: 12px;
+  border-radius: 12px;
+  background: #ffe8ec;
+  color: #b00020;
+}
+
+.result {
+  margin-top: 18px;
+  background: #fff;
+  padding: 18px;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.result-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+}
+
+.tip {
+  margin-top: 12px;
+  color: #444;
+}
+
+.hidden {
+  display: none;
+}
+
+/* BMI COLOR INDICATOR BAR */
+.bmi-bar {
+  margin-top: 16px;
+}
+
+.bmi-scale {
+  position: relative;
+  height: 14px;
+  border-radius: 10px;
+  overflow: hidden;
+
+  /* Underweight (blue) | Normal (green) | Overweight (orange) | Obese (red) */
+  background: linear-gradient(
+    to right,
+    #3b82f6 0%,
+    #3b82f6 25%,
+    #22c55e 25%,
+    #22c55e 50%,
+    #f59e0b 50%,
+    #f59e0b 75%,
+    #ef4444 75%,
+    #ef4444 100%
+  );
+}
+
+.bmi-indicator {
+  position: absolute;
+  top: -6px;
+  left: 0%;
+  width: 4px;
+  height: 26px;
+  background: #111;
+  border-radius: 4px;
+  transition: left 0.35s ease;
+}
+
+.label {
+  position: absolute;
+  top: 18px;
+  font-size: 11px;
+  color: #444;
+  white-space: nowrap;
+}
+
+.label.left {
+  left: 0%;
+}
+
+.label.mid-left {
+  left: 25%;
+  transform: translateX(-50%);
+}
+
+.label.mid-right {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.label.right {
+  left: 75%;
+  transform: translateX(-50%);
+}
+
+.footer {
+  margin-top: 32px;
+  padding: 16px;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.footer p {
+  margin: 0;
+}

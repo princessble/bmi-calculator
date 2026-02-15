@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Blessing Fortune Kwomo">
+
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>BMI Calculator</h1>
+        <p class="subtitle">
+          Enter your height and weight to calculate your BMI.
+        </p>
+      </header>
+
+      <form id="bmiForm" class="card" novalidate>
+        <div class="field">
+          <label for="height">Height (cm)</label>
+          <input
+            id="height"
+            type="number"
+            inputmode="decimal"
+            placeholder="e.g. 170"
+            min="1"
+            step="0.1"
+          >
+        </div>
+
+        <div class="field">
+          <label for="weight">Weight (kg)</label>
+          <input
+            id="weight"
+            type="number"
+            inputmode="decimal"
+            placeholder="e.g. 65"
+            min="1"
+            step="0.1"
+          >
+        </div>
+
+        <button type="submit" class="btn">Calculate BMI</button>
+        <button type="button" id="resetBtn" class="btn secondary">Reset</button>
+      </form>
+
+      <p id="error" class="error hidden" role="alert"></p>
+
+      <section id="result" class="result hidden" aria-live="polite">
+        <h2>Your Result</h2>
+
+        <div class="result-grid">
+          <p><strong>BMI:</strong> <span id="bmiValue">--</span></p>
+          <p><strong>Category:</strong> <span id="bmiCategory">--</span></p>
+        </div>
+
+        <div class="bmi-bar">
+          <div class="bmi-scale" role="img" aria-label="BMI range indicator">
+            <span class="label left">Underweight</span>
+            <span class="label mid-left">Normal</span>
+            <span class="label mid-right">Overweight</span>
+            <span class="label right">Obese</span>
+
+            <div
+              id="bmi-indicator"
+              class="bmi-indicator"
+              title="Your BMI position"
+            ></div>
+          </div>
+        </div>
+
+        <p id="bmiTip" class="tip"></p>
+      </section>
+    </main>
+    <footer class="footer">
+      <p>&copy; 2026 BMI Calculator. All rights reserved Blessing Kwomo</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
