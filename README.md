@@ -70,7 +70,7 @@ Weight in kilograms (kg)
 The app validates input to ensure realistic values before calculation.
 
 BMI Calculation 🧠
-<img src="assets/image/calc.png" alt="BMI calculation logic">
+<img src="assets/image/calc.png" alt="BMI calculation logic" width=300;>
 
 The BMI formula used:
 
@@ -97,6 +97,7 @@ The app displays:
 <li>BMI category (Underweight, Normal, Overweight, Obese)</li>
 
 <li>A color indicator bar that visually represents where the BMI falls on the scale</li>
+</ul>
 
 Live Demo
 
