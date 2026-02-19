@@ -41,9 +41,9 @@ Here is a visual representation of the workflow chart:
 <p>This project was built as part of my Full Stack Web Development portfolio to demonstrate clean HTML structure, modern CSS styling, JavaScript logic, form validation, and basic accessibility practices.</p>
 
 <h3>About This Project</h3>
-<ul>
-<h3>This project focuses on:</h3>
 
+<h3>This project focuses on:</h3>
+<ul>
 <li>Clean UI and UX</li>
 
 <li>Beginner-friendly JavaScript logic<li>
@@ -82,21 +82,22 @@ Here is a visual representation of the workflow chart:
 <li>BMI = weight (kg) / (height (m) × height (m))</li>
 </ul>
 
-J<h3>avaScript handles:</h3>
-
-Unit conversion (cm → m)
-
-Calculation
-
-Rounding to 1 decimal place
-
-Result & Indicator Bar 🎨
-<p align="center"><img src="assets/image/result.png" alt="BMI result and indicator bar" width=300; height=300;>
-
+<h3>avaScript handles:</h3>
 <ul>
 
-The app displays:
+<li>Unit conversion (cm → m)</li>
 
+<li>Calculation</li>
+
+<li>Rounding to 1 decimal place</li>
+
+<h3>Result & Indicator Bar 🎨</h3>
+<p align="center"><img src="assets/image/result.png" alt="BMI result and indicator bar" width=300; height=300;>
+
+
+
+<h3>The app displays:</h3>
+<ul>
 <li>BMI value</li>
 
 <li>BMI category (Underweight, Normal, Overweight, Obese)</li>
@@ -104,7 +105,7 @@ The app displays:
 <li>A color indicator bar that visually represents where the BMI falls on the scale</li>
 </ul>
 
-Live Demo
+<h3>Live Demo</h3>
 
 View the live demo here:
 👉 https://princessble.github.io/bmi-calculator/
