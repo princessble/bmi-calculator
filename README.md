@@ -31,6 +31,7 @@ Here is a visual representation of the workflow chart:
 <li>Acknowledgements</li>
 
 <li>Footer</li>
+</ul>
 
 <h3>Description</h3>
 
@@ -46,7 +47,7 @@ Here is a visual representation of the workflow chart:
 <ul>
 <li>Clean UI and UX</li>
 
-<li>Beginner-friendly JavaScript logic<li>
+<li>Beginner-friendly JavaScript logic</li>
 
 <li>Form validation</li>
 
