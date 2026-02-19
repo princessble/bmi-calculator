@@ -68,6 +68,7 @@ Here is a visual representation of the workflow chart:
 
 <li>Height in centimeters (cm)</li>
 
+
 <li>Weight in kilograms (kg)</li>
 
 <li>The app validates input to ensure realistic values before calculation.</li>
@@ -83,14 +84,14 @@ Here is a visual representation of the workflow chart:
 </ul>
 
 <h3>avaScript handles:</h3>
-<ul>
+
 
 <li>Unit conversion (cm → m)</li>
 
 <li>Calculation</li>
 
 <li>Rounding to 1 decimal place</li>
-
+</ul>
 <h3>Result & Indicator Bar 🎨</h3>
 <p align="center"><img src="assets/image/result.png" alt="BMI result and indicator bar" width=300; height=300;>
 
@@ -107,59 +108,61 @@ Here is a visual representation of the workflow chart:
 
 <h3>Live Demo</h3>
 
-View the live demo here:
-👉 https://princessble.github.io/bmi-calculator/
+<p>View the live demo here:
+👉 https://princessble.github.io/bmi-calculator/</p>
 
 
 
-Features 🚀
+<h3>Features 🚀</h3>
+<ul>
 
-BMI calculation using JavaScript
+<li>BMI calculation using JavaScript</li>
 
-Real-time visual BMI indicator bar
+<li>Real-time visual BMI indicator bar</li>
 
-Input validation with user-friendly errors
+<li>Input validation with user-friendly errors</li>
 
-Responsive design (mobile-friendly)
+<li>Responsive design (mobile-friendly)</li>
 
-Reset functionality
+<li>Reset functionality</li>
 
-W3C HTML & CSS validation compliance
+<li>W3C HTML & CSS validation compliance</li>
 
-Accessible labels and ARIA support
+<li>Accessible labels and ARIA support</li>
 
-Getting Started
+<h3>Getting Started</h3>
 
-To run this project locally:
+<p>To run this project locally:</p>
+<ul>
+<li>Clone the repository</li>
 
-Clone the repository
+<li>Navigate into the project folder</li>
 
-Navigate into the project folder
+<li>Open index.html in your browser</li>
+</ul>
 
-Open index.html in your browser
+<p>git clone https://github.com/your-username/bmi-calculator.git
+cd bmi-calculator</p>
 
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
+<h3>Manual Testing</h3>
 
-Manual Testing
+<p>Before deploying this project, I performed the following manual tests:</p>
+<ul>
+<li>Navigation / UI</li>
 
-Before deploying this project, I performed the following manual tests:
+<li>Page loads correctly</li>
 
-Navigation / UI
-
- Page loads correctly
-
- Buttons are clickable
+<li>Buttons are clickable</li>
+</ul>
 
 Forms
-
- Height input validation
+Height input validation
  
- Weight input validation
+Weight input validation
 
- Error messages display correctly
+Error messages display correctly
 
- Reset button clears fields and result
+Reset button clears fields and result
 
 Responsiveness
 
