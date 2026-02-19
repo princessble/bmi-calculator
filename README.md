@@ -1,5 +1,5 @@
 <h2>BMI Calculator 🧮📏</h2>
-<p align="center"><img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200" height="200"> </p>
+<p align="center"><img src="assets/image/bmi-logo2.png" alt="BMI Calculator Logo" width="200"></p>
 <h3>Workflow 🚀</h3>
 
 Here is a visual representation of the workflow chart:
@@ -61,7 +61,7 @@ Here is a visual representation of the workflow chart:
 <p>The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.</p>
 
 <h3>How It Works </h3>
-<p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=400; height=400;>
+<p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=400;></p>
 
 <ul>
 <li>Input Height & Weight 📏⚖️</li>
@@ -75,7 +75,7 @@ Here is a visual representation of the workflow chart:
 <li>The app validates input to ensure realistic values before calculation.</li>
 </ul>
 
-<p align="center"><img src="assets/image/calc.png" alt="BMI calculation logic" width=300; height=300;>
+<p align="center"><img src="assets/image/calc.png" alt="BMI calculation logic" width=300;></p>
 
 <h3>BMI Calculation 🧠</h3>
 <ul>
@@ -84,9 +84,9 @@ Here is a visual representation of the workflow chart:
 <li>BMI = weight (kg) / (height (m) × height (m))</li>
 </ul>
 
-<h3>avaScript handles:</h3>
+<h3>JavaScript handles:</h3>
 
-
+<ul>
 <li>Unit conversion (cm → m)</li>
 
 <li>Calculation</li>
@@ -94,7 +94,10 @@ Here is a visual representation of the workflow chart:
 <li>Rounding to 1 decimal place</li>
 </ul>
 <h3>Result & Indicator Bar 🎨</h3>
-<p align="center"><img src="assets/image/result.png" alt="BMI result and indicator bar" width=300; height=300;>
+<p align="center">
+  <img src="assets/image/result.png" alt="BMI result and indicator bar" width="300">
+</p>
+
 
 
 
@@ -109,8 +112,13 @@ Here is a visual representation of the workflow chart:
 
 <h3>Live Demo</h3>
 
-<p>View the live demo here:
-👉 https://princessble.github.io/bmi-calculator/</p>
+<p>
+  <strong>Live Demo:</strong><br>
+  👉 <a href="https://princessble.github.io/bmi-calculator/" target="_blank">
+    https://princessble.github.io/bmi-calculator/
+  </a>
+</p>
+
 
 
 
