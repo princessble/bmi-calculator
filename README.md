@@ -204,7 +204,7 @@ cd bmi-calculator</code></pre>
 
 <h3>W3C HTML Validator</h3>
 <p align="center">
-  <img src="assets/image/html-validator.png" alt="HTML validation result" width="300">
+  <img src="assets/image/html-validator.png" alt="HTML validation result" width="500">
 </p>
 
 
@@ -213,7 +213,7 @@ cd bmi-calculator</code></pre>
 <h3>W3C CSS Validator</h3>
 
 <p align="center">
-  <img src="assets/image/css-validator.png" alt="CSS validation result" width="300">
+  <img src="assets/image/css-validator.png" alt="CSS validation result" width="500">
 </p>
 
 Responsive Design Checker:
