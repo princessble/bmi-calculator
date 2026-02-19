@@ -4,7 +4,8 @@
 
 Here is a visual representation of the workflow chart:
 
-<p align="center"><img src="assets/image/workflow.png" alt="BMI Calculator workflow chart" width="400;"></p>
+<p align="center"><img src="assets/image/workflow.png" alt="BMI Calculator workflow chart" width="300;"></p>
+
 <h3>Table of Contents</h3>
 
 <ul>
