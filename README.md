@@ -95,7 +95,7 @@ Here is a visual representation of the workflow chart:
 </ul>
 <h3>Result & Indicator Bar 🎨</h3>
 <p align="center">
-  <img src="assets/image/result.png" alt="BMI result and indicator bar" width="300">
+  <img src="assets/image/result.png" alt="BMI result and indicator bar" width="300;">
 </p>
 
 <h3>The app displays:</h3>
@@ -204,7 +204,7 @@ cd bmi-calculator</code></pre>
 
 <h3>W3C HTML Validator</h3>
 <p align="center">
-  <img src="assets/image/html-validator.png" alt="HTML validation result" width="500">
+  <img src="assets/image/html-validator.png" alt="HTML validation result" width="600;">
 </p>
 
 
@@ -213,40 +213,45 @@ cd bmi-calculator</code></pre>
 <h3>W3C CSS Validator</h3>
 
 <p align="center">
-  <img src="assets/image/css-validator.png" alt="CSS validation result" width="500">
+  <img src="assets/image/css-validator.png" alt="CSS validation result" width="600;">
 </p>
 
-Responsive Design Checker:
-
-Responsive Design Checker
-
-<img src="assets/image/responsive.png" alt="Responsive design result">
-Acknowledgements 🙏
-
-Special thanks to my mentors and learning communities for guidance and encouragement throughout my web development journey.
-
-Gratitude to:
 
 
-Open-source community – for tools, documentation, and inspiration
+<h3>Responsive Design Checker</h3>
 
-Tools & Technologies Used
+<p align="center"><img src="assets/image/responsive.png" alt="Responsive design result" width="600;">
 
-HTML & CSS 🌐🎨
+<h3>Acknowledgements 🙏</h3>
 
-JavaScript ⚙️
+<p>Special thanks to my mentors and learning communities for guidance and encouragement throughout my web development journey.</p>
 
-Git & GitHub 🐙
+<h3>Gratitude to:</h3>
 
-VS Code 💻
 
-Browser DevTools 🔍
+<p>Open-source community – for tools, documentation, and inspiration</p>
 
-Footer
+<h3>Tools & Technologies Used</h3>
+<ul>
+<li>HTML & CSS 🌐🎨</li>
 
-© 2026 BMI Calculator · Built by Blessing Kwomo. All rights reserved. 🌟
+<li>JavaScript ⚙️</li>
 
-For more projects, visit my GitHub:
-👉 https://github.com/princessble
+<li>Git & GitHub 🐙</li>
+
+<li>VS Code 💻</li>
+
+<li>Browser DevTools 🔍</li>
+</ul>
+
+<h3>Footer</h3>
+
+<p align="center">© 2026 BMI Calculator · Built by Blessing Kwomo. All rights reserved. 🌟</p>
+
+
+<p>
+  <strong>For more projects, visit my GitHub:</strong><br>
+  👉 <a href="https://github.com/princessble" target="_blank">https://github.com/princessble</a>
+</p>
 
  
