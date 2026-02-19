@@ -132,6 +132,7 @@ Here is a visual representation of the workflow chart:
 <li>W3C HTML & CSS validation compliance</li>
 
 <li>Accessible labels and ARIA support</li>
+</ul>
 
 <h3>Getting Started</h3>
 
