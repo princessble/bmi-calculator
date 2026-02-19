@@ -170,43 +170,51 @@ cd bmi-calculator</code></pre>
 <li>Reset button clears fields and result</li>
 </ul>
 
-Responsiveness
+<h3>Responsiveness</h3>
+<ul>
+ <li>Desktop layout</li>
 
- Desktop layout
+ <li>Tablet layout</li>
 
- Tablet layout
+ <li>Mobile layout</li>
+ </ul>
 
- Mobile layout
+<h3>Browser Compatibility</h3>
+<ul>
+ <li>Chrome</li>
 
-Browser Compatibility
+ </li>Firefox</li>
 
- Chrome
+ <li>Microsoft Edge</li>
+ </ul>
 
- Firefox
+<h3>Accessibility</h3>
+<ul>
 
- Microsoft Edge
+ <li>Labels linked to inputs</li>
 
-Accessibility
+ <li>Screen reader-friendly result section</li>
 
- Labels linked to inputs
+ <li>Keyboard navigation</li>
+ </ul>
 
- Screen reader-friendly result section
+<h3>Validation and Responsiveness</h3>
 
- Keyboard navigation
 
-Validation and Responsiveness
 
-HTML Validation:
+<h3>W3C HTML Validator</h3>
+<p align="center">
+  <img src="assets/image/html-validator.png" alt="HTML validation result" width="300">
+</p>
 
-W3C HTML Validator
 
-<img src="assets/image/html-validator.png" alt="HTML validation result">
 
-CSS Validation:
 
-W3C CSS Validator
+<h3>W3C CSS Validator</h3>
 
-<img src="assets/image/css-validator.png" alt="CSS validation result">
+<p align="center">
+  <img src="assets/image/css-validator.png" alt="CSS validation result" width="300">
+</p>
 
 Responsive Design Checker:
 
