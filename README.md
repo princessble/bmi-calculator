@@ -95,7 +95,7 @@ Here is a visual representation of the workflow chart:
 </ul>
 <h3>Result & Indicator Bar 🎨</h3>
 <p align="center">
-  <img src="assets/image/result.png" alt="BMI result and indicator bar" width="300;">
+  <img src="assets/image/result.png" alt="BMI result and indicator bar" width="400;">
 </p>
 
 <h3>The app displays:</h3>
