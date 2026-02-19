@@ -41,22 +41,23 @@ Here is a visual representation of the workflow chart:
 <p>This project was built as part of my Full Stack Web Development portfolio to demonstrate clean HTML structure, modern CSS styling, JavaScript logic, form validation, and basic accessibility practices.</p>
 
 <h3>About This Project</h3>
+<ul>
+<h3>This project focuses on:</h3>
 
-This project focuses on:
+<li>Clean UI and UX</li>
 
-Clean UI and UX
+<li>Beginner-friendly JavaScript logic<li>
 
-Beginner-friendly JavaScript logic
+<li>Form validation</li>
 
-Form validation
+<li>Accessibility improvements</li>
 
-Accessibility improvements
+<li>W3C validation compliance</li>
 
-W3C validation compliance
+<li>Visual feedback using a BMI indicator bar</li>
+</ul>
 
-Visual feedback using a BMI indicator bar
-
-The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.
+<p>The goal is to build practical, real-world mini applications that demonstrate strong foundational web development skills.</p>
 
 <h3>How It Works </h3>
 <p align="center"><img src="assets/image/input.png" alt="BMI input fields" width=400; height=400;>
