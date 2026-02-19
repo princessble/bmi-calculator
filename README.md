@@ -75,7 +75,7 @@ Here is a visual representation of the workflow chart:
 <li>The app validates input to ensure realistic values before calculation.</li>
 </ul>
 
-<p align="center"><img src="assets/image/calc.png" alt="BMI calculation logic" width=300;></p>
+<p align="center"><img src="assets/image/calc.png" alt="BMI calculation logic" width="400;"></p>
 
 <h3>BMI Calculation 🧠</h3>
 <ul>
@@ -98,9 +98,6 @@ Here is a visual representation of the workflow chart:
   <img src="assets/image/result.png" alt="BMI result and indicator bar" width="300">
 </p>
 
-
-
-
 <h3>The app displays:</h3>
 <ul>
 <li>BMI value</li>
@@ -118,9 +115,6 @@ Here is a visual representation of the workflow chart:
     https://princessble.github.io/bmi-calculator/
   </a>
 </p>
-
-
-
 
 <h3>Features 🚀</h3>
 <ul>
@@ -150,8 +144,8 @@ Here is a visual representation of the workflow chart:
 <li>Open index.html in your browser</li>
 </ul>
 
-<p>git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator</p>
+<pre><code>git clone https://github.com/princessble/bmi-calculator.git
+cd bmi-calculator</code></pre>
 
 <h3>Manual Testing</h3>
 
@@ -164,14 +158,16 @@ cd bmi-calculator</p>
 <li>Buttons are clickable</li>
 </ul>
 
-Forms
-Height input validation
+<h3>Forms</h3>
+<ul>
+<li>Height input validation</li>
  
-Weight input validation
+<li>Weight input validation</li>
 
-Error messages display correctly
+<li>Error messages display correctly</li>
 
-Reset button clears fields and result
+<li>Reset button clears fields and result</li>
+</ul>
 
 Responsiveness
 
